@@ -1,0 +1,8 @@
+body {
+  /* Added theme-related background */
+  background-image: url('./img/event.jpg');
+  /* background-image: url('https://cdn.vectorstock.com/i/1000x1000/07/42/young-people-on-the-party-vector-1770742.webp');*/
+    /*padding: 10px;*/
+  font-family: sans-serif;
+  /* font-size:larger; */
+}
